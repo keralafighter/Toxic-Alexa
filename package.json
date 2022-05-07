@@ -1,14 +1,14 @@
 {
-  "name": "Toxic-Alexa",
+  "name": "Sappu-Drozoxo",
   "version": "7.3.6",
-  "description": "Toxic-Alexa is the Modified Version of WhatsAsena, Made By @TURBOHYPER with Baileys.",
-  "main": "./Toxic-Alexa/bot.js",
+  "description": "Sappu-Drozoxo is the Modified Version of WhatsAsena, Made By @KERALAFIGHTER with Baileys.",
+  "main": "./Sappu-Drozoxo/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TURBOHYPER/Toxic-Alexa.git"
+    "url": "git+https://github.com/KERALAFIGHTER/Sappu-Drozoxo.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "TURBOHYPER",
-  "developer": "@TURBOHYPER",
+  "author": "KERALAFIGHTER",
+  "developer": "@KERALAFIGHTER",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/TURBOHYPER/Toxic-Alexa/issues"
+    "url": "https://github.com/KERALAFIGHTER/Sappu-Drozoxo/issues"
   },
-  "homepage": "https://github.com/TURBOHYPER/Toxic-Alexa#readme",
+  "homepage": "https://github.com/KERALAFIGHTER/Sappu-Drozoxo#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
