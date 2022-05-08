@@ -1,19 +1,19 @@
 {
-    "name": "Toxic-Alexa",
-    "description": "Toxic-Alexa - Whatsapp Bot",
-    "logo": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg",
-    "keywords": ["whatsapp", "userbot", "Alexa", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/TURBOHYPER/Toxic-Alexa",
-    "website":   "https://github.com/TURBOHYPER/Toxic-Alexa",
-    "success_url": "https://github.com/TURBOHYPER/Toxic-Alexa",
+    "name": "Sappu-Drozoxo",
+    "description": "Sappu-Drozoxo - Whatsapp Bot",
+    "logo": "https://telegra.ph/file/749e2d24111755b5980ad.jpg",
+    "keywords": ["whatsapp", "userbot", "Drozoxo", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/KERALAFIGHTER/Sappu-Drozoxo",
+    "website":   "https://github.com/KERALAFIGHTER/Sappu-Drozoxo",
+    "success_url": "https://github.com/KERALAFIGHTER/Sappu-Drozoxo",
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Alexa session changed! Type your Alexa code here.",
+            "description": "Drozoxo session changed! Type your Drozoxo code here.",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 916380260672,0 (india number +91)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 919400545895,0 (india number +91)",
             "required": false
         },
         "LANGUAGE": {
@@ -22,7 +22,7 @@
             "value": "en"
         },
          "BGM_DURATION": {
-            "description": "FUNY BGM DURATION BY TURBO",
+            "description": "FUNY BGM DURATION BY SAPPU",
             "required": false,
             "value": "31996800"
          },
@@ -32,16 +32,17 @@
             "value": "false"
          },
          "BROADCAST_NAME": {
-            "description": "alexafor ordertext",
+            "description": "drozoxofor ordertext",
             "required": false,
-            "value": "ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩"
+            "value": "ꪶʀ᭄ʀ᭄ʀꫂ"
          },
          "BOT_NAME": {
             "description": "Bot Name For Menu",
             "required": false,
-            "value": "🥵Toxic-Alexa🥶"
+            "value": "★⟵𝄞⃝👾ͥ͢ ͭ ᷤ  ͫ͢ ͤᴅʀᴏᴢᴏxᴏ͢₂₀₀₄✿⃝⸙⃝"
          },
-         "TALKING_ALEXA": {
+         "TALKING_DROZOXO
+": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
@@ -64,37 +65,37 @@
         "NAME_STYLE": {
             "description": "Set the logo list name",
             "required": false,
-            "value": "Turbo"
+            "value": "SAPPU"
         },
         "ALIVEBUTTON": {
             "description": "Set the alive message two name",
             "required": true,
-            "value": "ʜᴇʟʟᴏ ʙʀᴏ"
+            "value": "ꪶʀ᭄ʀ᭄ʀꫂ"
         },
         "ALIVE_BUTTON": {
             "description": "Set the Alive message first name",
             "required": true,
-            "value": "ʜɪ ᴅᴜᴅᴇ"
+            "value": "ꪶʀ᭄ʀ᭄ʀꫂ"
         },
         "INSTA_LINK": {
             "description": "Type Your Instagarm UserName Here'. Otherwise false",
             "required": false,
-            "value": "https://instagram.com/toxic_turbo777"
+            "value": ""https://instagram.com/_v__fa__k___sappu
         },
-        "GROUP_LINK": {
-            "description": "Group Link",
+        "PM🤟_LINK": {
+            "description": "Personal Message ",
             "required": true,
-            "value": "https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp"
+            "value": "http://Wa.me/+919400545895"
         },
         "NUMBER": {
             "description": "Type Your Number Here'. Otherwise false",
             "required": false,
-            "value": "916380260672"
+            "value": "919400545895"
         },
         "TAG_REPLY": {
-            "description": "Type Your Number Here For Tag Reply Ex- 916380260672@s.whatsapp.net'. Otherwise false",
+            "description": "Type Your Number Here For Tag Reply Ex- 919400545895@s.whatsapp.net'. Otherwise false",
             "required": false,
-            "value": "916380260672@s.whatsapp.net"
+            "value": "919400545895@s.whatsapp.net"
         },
         "WARN_COUNT": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -129,17 +130,17 @@
         "OWNER_NAME": {
             "description": "reply for .owner ! give your details, Use => default, to change back.",
             "required": false,
-            "value": "Turbo"
+            "value": "Sappu"
         },
         "ALL_CAPTION": {
             "description": "Caption for images and videos",
             "required": false,
-            "value": "🥵Toxic-Alexa🥶"
+            "value": "★⟵𝄞⃝👾ͥ͢ ͭ ᷤ  ͫ͢ ͤᴅʀᴏᴢᴏxᴏ͢₂₀₀₄✿⃝⸙⃝"
         },
         "ALL_IMG": {
             "description": "Your Bot Images Url",
             "required": true,
-            "value": "https://telegra.ph/file/f6ec3d3d845a1e3dcce39.jpg"
+            "value": "https://telegra.ph/file/749e2d24111755b5980ad.jpg"
         },
         "ALEXA_AI": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
@@ -173,7 +174,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "Attention please 📢"
+            "value": "ഒന്ന് ഉഷാർ ആക് 😏📢"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -201,7 +202,7 @@
             "value": "one"
         },
         "WORK_TYPE": {
-            "description": "Alexa Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Drozoxo Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -222,7 +223,21 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n*╭➤ 𝐈𝐀𝐌 𝐒𝐓𝐈𝐋𝐋 𝐀𝐋𝐈𝐕𝐄 𝐁𝐑𝐎*» \n*│❖ Oᴡɴᴇʀ :ī.am/ꪶ⇾🪀☻᳡₉ͭ₁ͦ₆ͯ₃ͥ₈ͨ₀ͭ₂ͧ₆ͬ₀ᷨ₆ͦ₇₂🇮🇳⃟ꫂ⁩⁩⁩*\n*│❖ Wᴏʀᴋ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*  \n*│❖ ᴅᴏɴᴛ ᴜsᴇ ʙᴀᴅ ᴡᴏʀᴅs*\n*│❖ ᴛʏᴘᴇ .ʟɪsᴛ ᴄᴏᴍᴍᴀɴᴅs*\n*│❖ ᴀᴅᴍɪɴ ʙᴏᴛ* \n*╭◪ ᴄᴏᴅᴇᴅ ʙʏ : ī.am/ꪶᴛᴜʀʙᴏꫂ⁩⁩⁩*\n*╰─────────────────☘︎*"
+            "value": "*★⟵𝄞⃝👾ͥ͢ ͭ ᷤ  ͫ͢ ͤᴅʀᴏᴢᴏxᴏ͢₂₀₀₄✿⃝⸙⃝ OWNER IS ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀𝓲𝓽𝘴 ꪑꫀ◈͜͡✮᭄᭄ุุุุุุุุุุ𝘴ꪖρρꪊ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀◈͜͡ꫂ
+    
+    ----- ★⟵𝄞⃝👾ͥ͢ ͭ ᷤ  ͫ͢ ͤᴅʀᴏᴢᴏxᴏ͢₂₀₀₄✿⃝⸙⃝ -----
+    ī.am/⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢⃢ꪶ⇾🪀☻᳡⃟₉₁ͩ₉ͬ₂ͦ₀ͯ₇ͦ₃₄₂₈₈₉⃝⃝⃝⃝⃝⃝⃝⃝⃝⃝⃝⃝⃝⃝🇮🇳⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟⃟ꫂ⁩⁩⁩
+╭─➤ INFO OWNER »
+│❖ *ᴀᴜᴛʜᴏʀ* : ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀𝓲𝓽𝘴 ꪑꫀ◈͜͡✮᭄᭄ุุุุุุุุุุ𝘴ꪖρρꪊ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀◈͜͡ꫂ
+│❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : https://instagram.com/_v__fa__k___sappu
+│❖ *OWNER* : wa.me/✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀𝓲𝓽𝘴 ꪑꫀ◈͜͡✮᭄᭄ุุุุุุุุุุ𝘴ꪖρρꪊ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀◈͜͡ꫂ
+╰────────────────❋ཻུ۪۪➹
+⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
+               ★⟵𝄞⃝👾ͥ͢ ͭ ᷤ  ͫ͢ ͤᴅʀᴏᴢᴏxᴏ͢₂₀₀₄✿⃝⸙⃝
+    
+    ⚡ ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀𝓲𝓽𝘴 ꪑꫀ◈͜͡✮᭄᭄ุุุุุุุุุุ𝘴ꪖρρꪊ✫⃟➸⃟̗̀̀̀̀̀̀̀̀̀̀̀̀̀◈͜͡ꫂ ⚡
+*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -239,10 +254,10 @@
             "required": false,
             "value": "false"
         },
-         "ALEXA_PASSWORD": {
-            "description": "enter the password, to get password watch https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp .",
+         "DROZOXO_PASSWORD": {
+            "description": "enter the password, to get password watch http://Wa.me/+919400545895 .",
             "required": false,
-            "value": "turbo777"
+            "value": "sappu0000"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
@@ -267,7 +282,7 @@
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://telegra.ph/file/749e2d24111755b5980ad.jpg"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
